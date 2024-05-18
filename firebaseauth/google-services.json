@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973679318743",
+    "project_id": "lesson7-bb8c9",
+    "storage_bucket": "lesson7-bb8c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973679318743:android:241d72758c56cae8ebc292",
+        "android_client_info": {
+          "package_name": "ru.mirea.galnykin.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiplYFC0qde5Xbf9gRrjP_OxKYKUlvi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
